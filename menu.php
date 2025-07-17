@@ -1,4 +1,5 @@
 <?php
     echo "Home";
-    exec "Aslan";
+    echo "Aslan";
+    echo "Mahanakorn";
 ?>
